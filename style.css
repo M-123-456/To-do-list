@@ -87,7 +87,7 @@ form button:hover {
   padding: 0rem 0.5rem;
 }
 
-.fa-trash,
+.fa-trash-can,
 .fa-check {
   pointer-events: none;
 }
@@ -139,5 +139,3 @@ select {
   background: white;
   color: #ff6f47;
 }
-
-
